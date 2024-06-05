@@ -9,20 +9,15 @@ public class Main {
          */
 
         int i, boy = 10 ;
+
         System.out.println(boy);
         i=i+10;
 
         //Array
 
-        int students = [10,30,40,50]
-
-        char name = ["harish","ramesh","dinesh"];
-
         System.out.println(students);
 
        for (int i = 1; i <= 2000; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
     }
