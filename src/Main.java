@@ -6,9 +6,9 @@ public class Main {
 
         /* Variable
            a-z ,A-Z , boy123 , boy_9,
-         */
+         */ 
 
-        int i, boy = 10 ;
+        int i, boy = 10 ,j ;
 
         System.out.println(boy);
         i=i+10;
